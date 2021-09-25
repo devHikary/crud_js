@@ -22,8 +22,8 @@ O projeto desenvolvido é um sistema de cadastro de cliente do Doguito Petshop.
 
 - Clonar o projeto
 - Entrar na pasta do projeto
-- Rodar o comando `npm start`
-
+- Instalar as dependências com `npm install`
+- Utilizar a extensão do VS Code `Live Server` pra subir a aplicação
 ### Servidor
 
 - Para rodar o servidor localmente `npx json-server --watch db.json`
