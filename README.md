@@ -31,3 +31,8 @@ O projeto desenvolvido é um sistema de cadastro de cliente do Doguito Petshop.
 ## 🗒️ Tópicos da aula
 
 ### Aula 1
+- Fazer requisições utilizando **xmlhttprequest**.
+- Lidar com **promises**.
+- Fazer uma requisição http utilizando **xmlhttprequest** para buscar todos os clientes do servidor.
+- Refatorar o código utilizando **promises** melhorando a leitura do código.
+- Utilizar `template literals` para criar um template html.
