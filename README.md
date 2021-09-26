@@ -52,3 +52,7 @@ O projeto desenvolvido é um sistema de cadastro de cliente do Doguito Petshop.
 - Fazer uma query string utilizando a propriedade `serachParams.get()` para encontrar um id.
 - Criar uma IIFE ou função auto executável.
 - Editar os dados utilizando o verbo http `PUT`.
+### Aula 5
+
+- Utilizar async/await para indicar funções assíncronas.
+- Tratar erros com try/catch
