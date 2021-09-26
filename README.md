@@ -47,3 +47,8 @@ O projeto desenvolvido é um sistema de cadastro de cliente do Doguito Petshop.
 - Criar um cliente utilizando o verbo http `POST`.
 - Remover um elemento do dom com método `remove()`
 - Deletar um cliente utilizando o verbo http `DELETE`
+### Aula 4
+
+- Fazer uma query string utilizando a propriedade `serachParams.get()` para encontrar um id.
+- Criar uma IIFE ou função auto executável.
+- Editar os dados utilizando o verbo http `PUT`.
